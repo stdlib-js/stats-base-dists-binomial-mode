@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/stats-base-dists-binomial-mode",
+  "version": "0.0.0",
+  "description": "Binomial distribution mode.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-binomial-mode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "successes",
+    "independent trials",
+    "discrete",
+    "bernoulli",
+    "exponential family",
+    "binomial",
+    "binom",
+    "location",
+    "center",
+    "mode",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
