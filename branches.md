@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/binomial/mode"
-click B href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/binomial/mode"
+%% click B href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-dists-binomial-mode/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/binomial/mode
