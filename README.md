@@ -69,7 +69,7 @@ where `n` is the number of trials, `p` is the success probability, and `⌊x⌋`
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@v0.2.0-esm/index.mjs';
 ```
 
 #### mode( n, p )
@@ -142,7 +142,7 @@ v = mode( 20, 1.5 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@v0.2.0-esm/index.mjs';
 
 var v;
 var i;
