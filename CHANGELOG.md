@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-06)
+
+<section class="features">
+
+### Features
+
+-   [`8447e7a`](https://github.com/stdlib-js/stdlib/commit/8447e7a2a28a2f5cdca879dea9a6ebe56783b82f) - add C implementation for `stats/base/dists/binomial/mode` [(#3947)](https://github.com/stdlib-js/stdlib/pull/3947)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3472](https://github.com/stdlib-js/stdlib/issues/3472)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8447e7a`](https://github.com/stdlib-js/stdlib/commit/8447e7a2a28a2f5cdca879dea9a6ebe56783b82f) - **feat:** add C implementation for `stats/base/dists/binomial/mode` [(#3947)](https://github.com/stdlib-js/stdlib/pull/3947) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
