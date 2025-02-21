@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-02-21)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
 -   [`8447e7a`](https://github.com/stdlib-js/stdlib/commit/8447e7a2a28a2f5cdca879dea9a6ebe56783b82f) - **feat:** add C implementation for `stats/base/dists/binomial/mode` [(#3947)](https://github.com/stdlib-js/stdlib/pull/3947) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
@@ -47,11 +48,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Saurabh Singh
 
 </section>
 
