@@ -69,7 +69,7 @@ where `n` is the number of trials, `p` is the success probability, and `⌊x⌋`
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@v0.3.0-deno/mod.js';
 ```
 
 #### mode( n, p )
@@ -138,7 +138,7 @@ v = mode( 20, 1.5 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mode@v0.3.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
